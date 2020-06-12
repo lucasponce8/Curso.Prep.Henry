@@ -1,0 +1,11 @@
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Variables: sirven para guardar algo (dato, informacion, etc.), se le puede asignar valores. Son como cajitas donde guardamos algo que luego vamos a usar.
+Strings: es un tipo de dato, son palabras que se escriben entre comillas.
+Funciones: se usan para agrupar codigos que vamos a usar muchas veces, asi simplificamos el trabajo. Dentro de cada funcion hay argumentos que serian las variables en esa funcion. La palabra "return" hace que la funcion te devuelva un dato.
+A las declaraciones "if" las usamos para ejecutar una tarea si se cumple una determinada condicion.
+Valores booleanos: son otro tipo de datos que pueden tener dos valores (true o false).
